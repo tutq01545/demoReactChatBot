@@ -1,5 +1,6 @@
 {
   "name": "azure-react-demo",
+  "homepage": "https://chatbot-demo.azurewebsites.net/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

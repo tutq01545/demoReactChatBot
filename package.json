@@ -3,7 +3,7 @@
   "engines": {
 	"node": "10.0"
   },
-  "homepage": "https://chatbot-demo.azurewebsites.net/azure-react-demo/",
+  "homepage": "https://chatbot-demo.azurewebsites.net/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
